@@ -4,4 +4,4 @@
 
 Повторить демонстрацию лекции (развернуть vpc, 2 веб сервера, бастион сервер).
 
-**<a href="https://github.com/heeisboy/sdvps-homeworks/tree/main/lecture_demos/terraform-yandex">terraform-yandex</a>**
+**>>> <a href="https://github.com/heeisboy/sdvps-homeworks/tree/main/lecture_demos/terraform-yandex">terraform-yandex</a>**
